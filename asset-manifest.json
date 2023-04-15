@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "./static/css/main.42eaf87e.css",
+    "main.js": "./static/js/main.b878284d.js",
+    "static/js/787.c1112931.chunk.js": "./static/js/787.c1112931.chunk.js",
+    "static/media/fa-solid-900.ttf": "./static/media/fa-solid-900.2877d54f94f30c5d563c.ttf",
+    "static/media/wraper.png": "./static/media/wraper.0fddd1fbe0a5e0a0af93.png",
+    "static/media/gaming.jpg": "./static/media/gaming.ebaf2ffc84f4451d.d5751ff804c935b205d3.jpg",
+    "static/media/fa-brands-400.ttf": "./static/media/fa-brands-400.13e40630e5866f777de8.ttf",
+    "static/media/logo (2).png": "./static/media/logo (2).548dc5719c2345c22eef.png",
+    "static/media/fa-solid-900.woff2": "./static/media/fa-solid-900.bdb9e23299f9d1320a8b.woff2",
+    "static/media/error.svg": "./static/media/error.084f5f5b0eb10d3216cb7c939108e1f6.svg",
+    "static/media/fa-brands-400.woff2": "./static/media/fa-brands-400.7be2266f1be21c44ecd4.woff2",
+    "static/media/fa-regular-400.ttf": "./static/media/fa-regular-400.146404900f7550a9719d.ttf",
+    "static/media/fa-regular-400.woff2": "./static/media/fa-regular-400.8bedd7cfa43a6c358cdd.woff2",
+    "static/media/fa-v4compatibility.ttf": "./static/media/fa-v4compatibility.6c0a7b774ffa1cf0a059.ttf",
+    "static/media/fa-v4compatibility.woff2": "./static/media/fa-v4compatibility.497d535001197a9c5b38.woff2",
+    "index.html": "./index.html",
+    "main.42eaf87e.css.map": "./static/css/main.42eaf87e.css.map",
+    "main.b878284d.js.map": "./static/js/main.b878284d.js.map",
+    "787.c1112931.chunk.js.map": "./static/js/787.c1112931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42eaf87e.css",
+    "static/js/main.b878284d.js"
+  ]
+}
